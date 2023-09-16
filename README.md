@@ -26,3 +26,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bytecodekakashi&show_icons=true&locale=en" alt="bytecodekakashi" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bytecodekakashi&" alt="bytecodekakashi" /></p>
+
+
+
+![Profile Footer](https://user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif).
