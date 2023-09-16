@@ -39,16 +39,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=bytecodekakashi&show_icons=true&locale=en" alt="GitHub Stats" />
 </p>
 
-<h3 align="center">Featured Projects</h3>
-
-<div align="center">
-  <a href="https://github.com/bytecodekakashi/project1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bytecodekakashi&repo=project1&show_icons=true&theme=radical" alt="Project 1" />
-  </a>
-  <a href="https://github.com/bytecodekakashi/project2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=bytecodekakashi&repo=project2&show_icons=true&theme=radical" alt="Project 2" />
-  </a>
-</div>
-
 ![Profile Footer](https://user-images.githubusercontent.com/74038190/238355349-7d484dc9-68a9-4ee6-a767-aea59035c12d.gif)
 ![Footer](https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651a89bfe4a621014b08346cf0/images/marquee.svg)
