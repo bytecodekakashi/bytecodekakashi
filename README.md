@@ -1,3 +1,6 @@
+![Profile Header](https://raw.githubusercontent.com/mayankchaudhary26/Cool-Readme-ideas/master/data/screen%20open.gif)
+
+
 <h1 align="center">Hi 👋, I'm bytecodekakashi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
