@@ -1,8 +1,11 @@
 ![Profile Header](https://user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif)
-![Header](https://user-images.githubusercontent.com/74038190/243078834-72903324-cf57-4e90-80a6-ed3c9734e0ed.gif).
 
 <h1 align="center">Hi 👋, I'm bytecodekakashi</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
+
+![Header](https://user-images.githubusercontent.com/74038190/243078834-72903324-cf57-4e90-80a6-ed3c9734e0ed.gif).
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bytecodekakashi&label=Profile%20views&color=0e75b6&style=flat" alt="bytecodekakashi" /> </p>
 
