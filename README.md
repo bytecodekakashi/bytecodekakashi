@@ -61,7 +61,7 @@
 <!-- GitHub Trophies -->
 <div align="center">
   <h3>GitHub Trophies 🏆</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=shanthrajguthalb" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=bytecodekakashi" alt="GitHub Trophies" />
 </div>
 
 <!-- GitHub Stats -->
